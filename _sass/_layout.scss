@@ -33,7 +33,7 @@ ul>li {
   margin-left: 25px;
   margin-right: 25px;
   text-transform: none;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .title-container {
@@ -94,6 +94,16 @@ ul>li {
   border-left: 1px dashed;
 }
 
+@media only screen and (max-width: 1000px) {
+  body{
+    font-size: 16px;
+  }
+
+  .heading-content {
+    font-size: 13px;
+  }
+}
+
 @media only screen and (max-width: 720px) {
   .title-container {
     height: 275px;
@@ -116,10 +126,10 @@ ul>li {
 
 @media only screen and (min-width: 1200px) {
   .title-container {
-    height: 600px;
+    height: 550px;
   }
 
   .heading-container {
-    top: 600px;
+    top: 550px;
   }
 }
