@@ -30,16 +30,12 @@ ul>li {
 .heading-content {
   color: #444444;
   display: none;
-  margin-left: 25px;
-  margin-right: 25px;
   text-transform: none;
   font-size: 18px;
 }
 
 .title-container {
-  height: 550px;
   width: 100%;
-  position: absolute;
 }
 
 .title-heading {
@@ -65,9 +61,14 @@ ul>li {
 }
 
 .description {
-  margin-top: 10px;
+  margin-top: 5px;
   margin-left: 25%;
   margin-right: 25%;
+}
+
+.heading-content {
+  margin-right: 15px;
+  margin-left: 15px;
 }
 
 .subtext {
@@ -76,18 +77,17 @@ ul>li {
   line-height: 20px;
 }
 
-.heading-container {
-  top: 550px;
-  bottom: 0;
-  position: absolute;
-  width: 100%;
-}
-
 .heading-text {
   position: relative;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.heading-container {
+  position: relative;
+  bottom: 0;
+  width: 100%;
 }
 
 .heading {
@@ -117,17 +117,16 @@ ul>li {
     font-size: 60px;
   }
 
-  .title-container {
-    height: 350px;
+  .description {
+    margin-top: 20px;
   }
 
-  .heading-container {
-    top: 350px;
+  .subtext {
+    margin-top: 30px;
   }
 
   .heading {
     width: 100%;
-    height: 175px;
   }
 
   .bordered-heading {
@@ -138,14 +137,8 @@ ul>li {
   .home-body>ul {
     margin-left: 75px;
   }
-}
 
-@media only screen and (min-width: 1200px) {
-  .title-container {
-    height: 550px;
-  }
-
-  .heading-container {
-    top: 550px;
+  .heading-content {
+    display: inline-block;
   }
 }
