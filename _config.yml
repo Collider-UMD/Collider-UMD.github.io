@@ -29,5 +29,5 @@ rules:
     - rule: "Clean up after yourself"
     - rule: "Build something cool"
     - rule: "<div style='height:1px'></div>"
-    - rule: "Request resources for projects <a href=''>here</a>"
+    - rule: "Request resources for projects <a href='http://goo.gl/forms/51V5yXhUsq'>here</a>"
     - rule: "Please get permission before taking things out of the space"
