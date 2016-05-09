@@ -23,7 +23,7 @@ headings:
     - name: Rules
       include: "rules.html"
     - name: Getting there
-      content: "For directions, check out <a href=''>this video</a>"
+      content: "For directions, check out <a href='https://www.youtube.com/watch?v=EO2zxN0GSYw'>this video</a>"
 rules:
     - rule: "Collider is always open, to everyone"
     - rule: "Clean up after yourself"
