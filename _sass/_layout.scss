@@ -111,8 +111,6 @@ ul>li {
 
   .heading-container {
     top: 275px;
-    margin-left: 35px;
-    margin-right: 35px;
   }
 
   .heading {
@@ -123,6 +121,11 @@ ul>li {
   .bordered-heading {
     border-right: none;
     border-left: none;
+  }
+
+  .heading-content {
+    margin-left: 35px;
+    margin-right: 35px;
   }
 }
 
