@@ -105,6 +105,15 @@ ul>li {
 }
 
 @media only screen and (max-width: 720px) {
+  .description {
+    margin-left: 35px;
+    margin-right: 35px;
+  }
+
+  .title {
+    font-size: 60px;
+  }
+
   .title-container {
     height: 275px;
   }
