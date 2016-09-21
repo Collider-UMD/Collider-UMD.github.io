@@ -7,6 +7,10 @@
 
 # Site settings
 title: Collider
+description_subtext: > # ignore newlines 
+  Circuit Building, Painting, Plumbing, Programming, Woodworking... People
+  working in Collider have made autonomous hovercraft, works of art, a smart
+  showerhead, a DDR machine, a lighthouse... you name it
 email: maker@collider.org
 description: > # ignore newlines 
   A place for people to explore ideas through experimentation.
@@ -17,6 +21,8 @@ social-media-img: "/img/social-media-img.png"
 github_username:  Collider-UMD
 # Build settings
 markdown: kramdown
+collider_closed: TRUE
+closed_text: IS CURRENTLY CLOSED AND UNDER RENOVATION, CHECK BACK SOON!
 headings:
     - name: Contact
       content: "To get in touch, shoot an email to <a href='mailto:maker@collider.org'>maker@collider.org</a>"
