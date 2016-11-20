@@ -22,7 +22,7 @@ github_username:  Collider-UMD
 # Build settings
 markdown: kramdown
 collider_closed: TRUE
-closed_text: WILL RELAUNCH ON DECEMBER 3rd, DURING LOCAL HACK DAY! SIGN UP "<a href='ter.ps/localhackday'>HERE</a>"
+closed_text: WILL RELAUNCH ON DECEMBER 3rd, DURING LOCAL HACK DAY! SIGN UP "<a href='http://ter.ps/localhackday'>HERE</a>"
 headings:
     - name: Contact
       content: "To get in touch, shoot an email to <a href='mailto:maker@collider.org'>maker@collider.org</a>"
