@@ -21,7 +21,7 @@ social-media-img: "/img/social-media-img.png"
 github_username:  Collider-UMD
 # Build settings
 markdown: kramdown
-collider_closed: TRUE
+collider_closed: FALSE
 closed_text: WILL RELAUNCH ON DECEMBER 3rd, DURING LOCAL HACK DAY! SIGN UP "<a href='http://ter.ps/localhackday'>HERE</a>"
 headings:
     - name: Contact
